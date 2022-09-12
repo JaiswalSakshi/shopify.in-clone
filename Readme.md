@@ -6,7 +6,7 @@
 <br>
 
 ## Project live link
-[Project-18](# "Not yet")
+[https://my-shopify.netlify.app/](https://my-shopify.netlify.app/ "shopify.in")
 
 <hr>
 
